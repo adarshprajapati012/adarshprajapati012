@@ -1,3 +1,4 @@
+![headerImg](https://github.com/adarshprajapati012/adarshprajapati012/blob/main/banner0011.webp)
 <h1 align="center">Hi 👋, I'm Adarsh Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
