@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adarsh prajapati" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="adarsh prajapati" height="40" width="40" /></a>
 <a href="https://instagram.com/theadarsh_p" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="theadarsh_p" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/@adarsh_prajapati" target="blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" alt="@adarsh_prajapati" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/adarsh_prajapati" target="blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" alt="@adarsh_prajapati" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
