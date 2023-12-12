@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adarsh Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Prajapati <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" align="center" ></h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQGpe7j_ywxf2g/profile-displaybackgroundimage-shrink_350_1400/0/1701195920468?e=1706745600&v=beta&t=m0nKbsE6W27OWxbV0eLaOMUxoJylH9vB3Tc8J2oP6RM" alt="logo" width="100%" height="100%"></div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
@@ -21,6 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshprajapati012&show_icons=true&locale=en&layout=compact" alt="adarshprajapati012" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshprajapati012&show_icons=true&locale=en" alt="adarshprajapati012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshprajapati012&" alt="adarshprajapati012" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
