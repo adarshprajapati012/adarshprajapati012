@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Prajapati <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" align="center" ></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQGpe7j_ywxf2g/profile-displaybackgroundimage-shrink_350_1400/0/1701195920468?e=1706745600&v=beta&t=m0nKbsE6W27OWxbV0eLaOMUxoJylH9vB3Tc8J2oP6RM" alt="logo" width="100%" height="100%"></div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQGRKVmxLA1LMg/profile-displaybackgroundimage-shrink_350_1400/0/1703172716179?e=1708560000&v=beta&t=8TvPThISnfrAOn7zo2gybzOvYjkM93UWCad5LJmDRiA" alt="logo" width="100%" height="100%"></div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">A passionate Software Engineer from India</h3>
 
