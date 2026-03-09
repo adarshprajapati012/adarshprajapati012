@@ -149,18 +149,6 @@ AI & Full Stack Developer | Java • Spring Boot • React • Artificial Intell
 
 ---
 
-# 🏆 Achievements
-
-🥈 2nd Position – Save Earth Arts Competition  
-
-🏸 Runner-up – BBC School Badminton Tournament  
-
-💻 Completed Java Full Stack Internship  
-
-🤖 Completed AI Internship (IBM SkillsBuild)
-
----
-
 # 💬 Dev Quote
 
 <p align="center">
