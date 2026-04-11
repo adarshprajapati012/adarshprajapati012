@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Prajapati</h1>
 
 <h3 align="center">
-AI & Full Stack Developer | Java • Spring Boot • React • Artificial Intelligence
+AI & Full Stack Developer | Java • Spring Boot • React • Artificial Intelligence.
 </h3>
 
 <p align="center">
